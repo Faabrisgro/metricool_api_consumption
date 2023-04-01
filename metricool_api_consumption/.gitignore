@@ -1,0 +1,5 @@
+.env
+credentials.json
+metricool_credentials.json
+Metricool_Conversations_per_month.ipynb
+/metricool_api_consumption
